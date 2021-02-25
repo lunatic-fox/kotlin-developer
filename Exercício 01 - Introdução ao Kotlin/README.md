@@ -28,7 +28,7 @@ fun main() {
 
 ​	Os valores das constantes *n1* e *n2* funcionam onde *n1* é o primeiro número a ser calculado junto de *n2* que é o segundo número.
 
-​	Lembrando que essas constantes são valores do tipo `Float` ou `null` e que serão aceitos pela função *calculate*, portanto digite o número seguido de `f` ou `F`. Ou então, no lugar do valor digite `null` caso queira ver a mensagem de erro.
+​	Lembrando que essas constantes devem ser valores do tipo `Float` ou `null` para que sejam aceitos pela função *calculate*, portanto digite o número seguido de `f` ou `F`. Ou então, no lugar do valor digite `null` caso queira ver a mensagem de erro.
 
 **Exemplos:**
 
