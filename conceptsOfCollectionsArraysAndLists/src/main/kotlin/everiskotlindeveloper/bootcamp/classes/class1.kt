@@ -12,16 +12,18 @@ fun main() {
     values[3] = 58
     values[4] = 74
 
-    for(i in values){ println(i) }
+    println("Using for() function...")
+    for(i in values){ print("[$i] ") }
     // "i" gonna have the value inside "values" for each iteration, then it'll be printed.
 
-    println("*************************")
+    println("\n")
 
-    values.forEach {println(it)}
+    println("${RC}Using forEach lambda function...")
+    values.forEach {print("[${it}] ")}
     // This do the same as the last for(), but it's a lambda expression.
     // "it" means kinda like -> for each time you passed in "values" print the correspondent value inside it.
 
-    println("*************************")
+    println("\n")
 
     for(i in values.indices){
         //i = index number    values[i] = What's the value inside that index number!
@@ -35,9 +37,8 @@ fun main() {
         println("${i+1}$ord position: ${values[i]}")
     }
 
-    println("*************************")
-
     values.sort()
     // The sort() method rearrange the values in crescent order.
-    for(i in values){ println(i) }
+    println("\n${RC}After ${fg(11)}sort$RC() method...")
+    for(i in values){ print("[$i] ") }
 }
