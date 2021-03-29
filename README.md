@@ -4,10 +4,10 @@ Deixarei agrupado pastas que terão soluções em Kotlin para os vários casos p
 
 ## Acesso rápido
 
-<span style="color:lime; font-size:20px;">**Exercícios** → <i style="color:#aaa; font-size:15px;">joseliojunior/everisKotlinDeveloper/exercises</i></span>
+**Exercícios** → *joseliojunior/everisKotlinDeveloper/exercises*
 		↳	[1.1 - Calculadora em Kotlin](https://github.com/joseliojunior/everisKotlinDeveloper/tree/master/exercises)
 
-<span style="color:lime; font-size:20px;">**Desafios** → <i style="color:#aaa; font-size:15px;">joseliojunior/everisKotlinDeveloper/challenges</i></span>
+**Desafios** → *joseliojunior/everisKotlinDeveloper/challenges*
 		↳	[1.1 - Soma Simples](https://github.com/joseliojunior/everisKotlinDeveloper/blob/master/challenges/firstgroup/01.%20Soma%20Simples.kt)
 		↳	[1.2 - Números Ímpares](https://github.com/joseliojunior/everisKotlinDeveloper/blob/master/challenges/firstgroup/02.%20N%C3%BAmeros%20%C3%8Dmpares.kt)
 		↳	[1.3 - Quadrado e ao Cubo](https://github.com/joseliojunior/everisKotlinDeveloper/blob/master/challenges/firstgroup/03.%20Quadrado%20e%20ao%20Cubo.kt)
