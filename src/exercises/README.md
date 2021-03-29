@@ -145,6 +145,6 @@ when{
 ​	Onde é devolvido uma única mensagem dizendo que algum dos valores é do tipo `null`.
 
 ​	E então, tudo pronto para testar?
-​	Teste o arquivo *"marshmallow.kt"* que está aqui e bons estudos! 
+​	Teste o arquivo *"calculator.kt"* que está aqui e bons estudos! 
 
 ## 	:rocket::star2::star2::star2:

@@ -1,3 +1,5 @@
+package exercises
+
 import kotlin.math.pow
 
 //////////////// Altere o código aqui ///////////////////
@@ -15,15 +17,15 @@ fun calculate(a:Float?,b:Float?,s:Int?):String{
     when{
         a==null -> {
             op="\nNão foi possível calcular!\n"+
-            """Valor de "n1" é do tipo nulo!"""
+                    """Valor de "n1" é do tipo nulo!"""
         }
         b==null -> {
             op="\nNão foi possível calcular!\n"+
-            """Valor de "n2" é do tipo nulo!"""
+                    """Valor de "n2" é do tipo nulo!"""
         }
         s==null -> {
             op="\nNão foi possível calcular!\n"+
-            """Valor de "select" é do tipo nulo!"""
+                    """Valor de "select" é do tipo nulo!"""
         }
         s==1 -> {
             result=a+b
@@ -49,7 +51,7 @@ fun calculate(a:Float?,b:Float?,s:Int?):String{
             op="\n${String.format("%.0f",a)}! = $factorial"
         }
         s==6 -> {
-            result=a.pow(b)
+            result= a.pow(b)
             op="\n$a ^ $b = $result"
         }
         s==7 -> {
