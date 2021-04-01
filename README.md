@@ -6,7 +6,7 @@ Deixarei agrupado pastas que terão soluções em Kotlin para os vários casos p
 
 **Projetos** → *joseliojunior/everisKotlinDeveloper/bootcampProjects* ou *joseliojunior/project{project_id}*
 
-- ↳	[*(Projeto pessoal)* 1.1 - RCxQ - Calculadora de relação cintura x quadril](https://github.com/joseliojunior/project000_RCxQ)
+- ↳	*(Projeto pessoal)* [1.1 - RCxQ - Calculadora de relação cintura x quadril](https://github.com/joseliojunior/project000_RCxQ)
 
 **Exercícios** → *joseliojunior/everisKotlinDeveloper/exercises*
 
