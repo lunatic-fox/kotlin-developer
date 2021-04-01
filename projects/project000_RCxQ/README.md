@@ -1,7 +1,6 @@
 # Projeto 000 - RCxQ
 
 Este é um projeto simples de cálculo da relação entre a circunferência de cintura e a circunferência de quadril.
-
 |                     Ícone do aplicativo.                     |                        Modo inicial.                         |                      Sexo selecionado.                       |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | ![appMenuIcon](img\appMenuIcon.png) | ![appIdle](img\appIdle.png) | ![appSelect](img\appSelect.png) |
