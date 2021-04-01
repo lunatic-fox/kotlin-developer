@@ -3,15 +3,15 @@
 Este é um projeto simples de cálculo da relação entre a circunferência de cintura e a circunferência de quadril.
 |                     Ícone do aplicativo.                     |                        Modo inicial.                         |                      Sexo selecionado.                       |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| ![appMenuIcon](\img\appMenuIcon.png) | ![appIdle](\img\appIdle.png) | ![appSelect](\img\appSelect.png) |
+| ![appMenuIcon](/img/appMenuIcon.png) | ![appIdle](/img/appIdle.png) | ![appSelect](/img/appSelect.png) |
 |                   **Feminino sem risco.**                    |                   **Feminino com risco.**                    |                   **Masculino sem risco.**                   |
-| ![appSelectAndInputsResultNoRisk](\img\appSelectAndInputsResultNoRisk.png) | ![appSelectAndInputsResultRisk](\img\appSelectAndInputsResultRisk.png) | ![appSelectAndInputsResultNoRiskMale](\img\appSelectAndInputsResultNoRiskMale.png) |
+| ![appSelectAndInputsResultNoRisk](/img/appSelectAndInputsResultNoRisk.png) | ![appSelectAndInputsResultRisk](/img/appSelectAndInputsResultRisk.png) | ![appSelectAndInputsResultNoRiskMale](/img/appSelectAndInputsResultNoRiskMale.png) |
 
 
 
 |Nenhum dado digitado.| Medidas digitadas, mas sexo não selecionado. |
 | :--: | :----------------------------------------------------------: |
-| ![appNoInputs](\img\appNoInputs.png)     | ![appNoSexSelect](\img\appNoSexSelect.png)                                                               |
+| ![appNoInputs](/img/appNoInputs.png)     | ![appNoSexSelect](/img/appNoSexSelect.png)                                                               |
 
 **Exemplo em modo paisagem.**
-![appSelectAndInputsResultNoRiskLandscape](\img\appSelectAndInputsResultNoRiskLandscape.png)
+![appSelectAndInputsResultNoRiskLandscape](/img/appSelectAndInputsResultNoRiskLandscape.png)
