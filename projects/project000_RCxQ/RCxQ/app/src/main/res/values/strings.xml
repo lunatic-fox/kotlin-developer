@@ -9,7 +9,7 @@
     <string name="cq_title">Digite o valor da circunferência de quadril (cm)</string>
     <string name="calcular">CALCULAR</string>
 
-    <string name="number_excp">Digite os todos valores de entrada.</string>
+    <string name="number_excp">Digite todos os valores de entrada.</string>
     <string name="selection_error">"Selecione o sexo."</string>
     <string name="risk">Risco aumentado de comorbidades</string>
     <string name="no_risk">Sem risco de comorbidades</string>

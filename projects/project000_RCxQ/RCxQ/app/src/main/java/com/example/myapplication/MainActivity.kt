@@ -73,7 +73,7 @@ class MainActivity : AppCompatActivity() {
             result.text = msg
             return result.text as String
 
-        } catch (e: Exception) {
+        } catch (e: NumberFormatException) {
             result.text = getString(R.string.number_excp)
             return result.text as String
         }
