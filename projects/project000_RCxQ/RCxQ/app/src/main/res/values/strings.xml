@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">RCQ</string>
+    <string name="title">Relação Cintura x Quadril</string>
+    <string name="sex">Selecione o sexo</string>
+    <string name="masculino">masculino</string>
+    <string name="feminino">feminino</string>
+    <string name="cc_input_hint">Ex: 60.5</string>
+    <string name="cc_title">Digite o valor da circunferência de cintura (cm)</string>
+    <string name="cq_title">Digite o valor da circunferência de quadril (cm)</string>
+    <string name="calcular">CALCULAR</string>
+
+    <string name="number_excp">Digite os todos valores de entrada.</string>
+    <string name="selection_error">"Selecione o sexo."</string>
+    <string name="risk">Risco aumentado de comorbidades</string>
+    <string name="no_risk">Sem risco de comorbidades</string>
+</resources>
