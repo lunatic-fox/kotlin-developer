@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculadora IMC</string>
+    <string name="title">Calculadora IMC</string>
+    <string name="ref1">OMS, 1997</string>
+    <string name="ref2">CDC, 2020</string>
+    <string name="calculate">calcular</string>
+    <string name="height">ex: 1.70m</string>
+    <string name="weight">ex: 70kg</string>
+    <string name="h_description">Digite a altura</string>
+    <string name="w_description">Digite o peso</string>
+    <string name="u3">Magreza grau III</string>
+    <string name="u2">Magreza grau II</string>
+    <string name="u1">Magreza grau I</string>
+    <string name="nw">Eutrofia\n(Peso saudável)</string>
+    <string name="pre">Pré-obesidade</string>
+    <string name="o1">Obesidade grau I</string>
+    <string name="o2">Obesidade grau II</string>
+    <string name="o3">Obesidade grau III</string>
+    <string name="ref_who97">Fonte: OMS, 1997 - Classificação do IMC para adultos acima dos 20 anos de idade.</string>
+    <string name="ref_cdc20">Fonte: CDC, 2020 - Classificação do IMC para adultos acima dos 20 anos de idade.</string>
+    <string name="no_input">Por favor, digite o peso e a altura.</string>
+    <string name="zero_input">Valor de entrada é 0 (zero).</string>
+    <string name="w_out_of_bounds">Por favor, digite um peso entre 10kg a 600kg.</string>
+    <string name="h_out_of_bounds">Por favor, digite uma altura entre 0.20m a 3.00m.</string>
+    <string name="source_description">Fonte</string>
+    <string name="uw">Baixo peso</string>
+    <string name="ob">Obesidade</string>
+</resources>

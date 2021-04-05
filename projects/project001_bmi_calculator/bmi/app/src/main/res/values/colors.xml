@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Default color set-->
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!--Buttons-->
+    <color name="enabled">#2167F3</color>
+    <color name="selected">#FF9800</color>
+    <color name="pressed">#00BCD4</color>
+
+    <!--API 23 or higher-->
+        <!--BMI classification-->
+        <color name="risk0">#4CAF50</color>
+        <color name="risk1">#FFEB3B</color>
+        <color name="risk2">#FF9800</color>
+        <color name="risk3">#FF5722</color>
+        <color name="risk4">#F44336</color>
+
+        <!--Alert messages-->
+        <color name="alert">#FFFF00</color>
+
+    <!--API 22 or lower-->
+        <!--BMI classification-->
+        <string name="risk0" translatable="false">#4CAF50</string>
+        <string name="risk1" translatable="false">#FFEB3B</string>
+        <string name="risk2" translatable="false">#FF9800</string>
+        <string name="risk3" translatable="false">#FF5722</string>
+        <string name="risk4" translatable="false">#F44336</string>
+
+        <!--Alert messages-->
+        <string name="alert" translatable="false">#FFFF00</string>
+</resources>
