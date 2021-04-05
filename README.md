@@ -4,10 +4,10 @@ Deixarei agrupado pastas que terão soluções em Kotlin para os vários casos p
 
 ## Acesso rápido
 
-**Projetos** → *joseliojunior/everisKotlinDeveloper/bootcampProjects* ou *joseliojunior/project{project_id}*
+**Projetos** → *joseliojunior/project<project_id>*
 
 - ↳	[1.1 - RCxQ - Calculadora de relação cintura x quadril](https://github.com/joseliojunior/project000_RCxQ) *(Projeto pessoal)* 
-- ↳	[1.2 - Calculadora de IMC](https://github.com/joseliojunior/everisKotlinDeveloper/tree/master/projects/project001_bmi_calculator) *(Projeto do bootcamp)* 
+- ↳	[1.2 - Calculadora de IMC](https://github.com/joseliojunior/project001_bmi_calculator) *(Projeto do bootcamp)* 
 
 **Exercícios** → *joseliojunior/everisKotlinDeveloper/exercises*
 
