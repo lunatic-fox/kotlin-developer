@@ -1,14 +1,13 @@
-package challenges.secondgroup
-
 import kotlin.math.sqrt
+
 fun main() {
     val n = readLine()!!.toInt()
-    for (i in 2..n + 1) {
+    for (i in 1..n) {
         val x = readLine()!!.toLong()
         println(isPrime(x))
     }
 }
-fun isPrime(n:Long):String{
+fun isPrime(n: Long): String{
     if(( n > 2L && n % 2L == 0L ) || n == 1L ) return "Not Prime"
 
     for(i in 3L..sqrt(n.toDouble()).toLong()){
