@@ -1,9 +1,9 @@
 package challenges.thirdgroup
 
 fun main() {
-    val n = readLine()!!.toInt()
+    val n = readLine()?.toInt() ?: 0
     for (i in 1..n) {
-        val x = readLine()!!
+        val x = readLine() ?: "0A0"
         val n1 = "${x[0]}".toInt()
         val n2 = "${x[2]}".toInt()
         when{

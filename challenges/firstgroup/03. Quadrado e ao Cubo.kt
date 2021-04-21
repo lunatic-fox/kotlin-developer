@@ -1,5 +1,6 @@
 package challenges.firstgroup
 
 fun main() {
-    for (i in 1..readLine()!!.toInt()) { println("$i ${i*i} ${i*i*i}") }
+    val r = readLine()?.toInt() ?: 0
+    for (i in 1..r) { println("$i ${i*i} ${i*i*i}") }
 }

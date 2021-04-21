@@ -6,9 +6,9 @@ import kotlin.math.pow
 
 fun main() {
 
-    val raio = readLine()!!.toDouble()
+    val raio = readLine()?.toDouble() ?: 0.0
     val pi = 3.14159
-    val area = pi*raio.pow(2)
+    val area = pi * raio.pow(2)
     val resultado = BigDecimal(area).setScale(4, RoundingMode.HALF_EVEN)
     println("A=$resultado")
 

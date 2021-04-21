@@ -2,7 +2,7 @@ package challenges.thirdgroup
 
 fun main() {
     while (true){
-        val input = readLine()!!
+        val input = readLine() ?: "-1"
 
         if (input.matches("""0x.*""".toRegex())) {
             println( Integer.parseInt(input.removePrefix("0x"), 16) )

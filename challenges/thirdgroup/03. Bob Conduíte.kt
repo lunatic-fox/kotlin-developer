@@ -1,8 +1,9 @@
 package challenges.thirdgroup
 
 fun main() {
-    for (i in 1..readLine()!!.toInt()) {
-        val r = readLine()!!.split("""\s""".toRegex())
-        println(r[0].toInt() + r[1].toInt())
+    val r = readLine()?.toInt() ?: 0
+    for (i in 1..r) {
+        val x = readLine()?.split("""\s""".toRegex()) ?: listOf("0","0")
+        println(x[0].toInt() + x[1].toInt())
     }
 }
