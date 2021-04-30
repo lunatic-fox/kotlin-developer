@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://badges.pufler.dev/created/joseliojunior/everisKotlinDeveloper">
+  <img src="https://badges.pufler.dev/updated/joseliojunior/everisKotlinDeveloper">
+</p>
+
 # Que bom ter você por aqui! 🤩
 
 Deixarei agrupado pastas que terão soluções em Kotlin para os vários casos propostos no bootcamp everis Kotlin Developer da DIO (*Digital Innovation One*).
