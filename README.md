@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://badges.pufler.dev/created/joseliojunior/everisKotlinDeveloper">
-  <img src="https://badges.pufler.dev/updated/joseliojunior/everisKotlinDeveloper">
+  <img src="https://badges.pufler.dev/created/joseliojunior/everis-kotlin-developer">
+  <img src="https://badges.pufler.dev/updated/joseliojunior/everis-kotlin-developer">
 </p>
 
 # Que bom ter você por aqui! 🤩
