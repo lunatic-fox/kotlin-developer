@@ -14,12 +14,12 @@ Deixarei agrupado pastas que terão soluções em Kotlin para os vários casos p
 - ↳	[1.1 - RCxQ - Calculadora de relação cintura x quadril](https://github.com/joseliojunior/project000_RCxQ) *(Projeto pessoal)* 
 - ↳	[1.2 - Calculadora de IMC](https://github.com/joseliojunior/project001_bmi_calculator) *(Projeto do bootcamp)* 
 
-**Exercícios** → *joseliojunior/everisKotlinDeveloper/exercises*
+**Exercícios** → *joseliojunior/kotlin-developer/exercises*
 
-- ↳	[1.1 - Calculadora em Kotlin](https://github.com/joseliojunior/everisKotlinDeveloper/tree/master/exercises)
+- ↳	[1.1 - Calculadora em Kotlin](https://github.com/joseliojunior/kotlin-developer/tree/master/exercises)
 
 
-**Desafios** → *joseliojunior/everisKotlinDeveloper/challenges*
+**Desafios** → *joseliojunior/kotlin-developer/challenges*
 
 - ↳	[1.1 - Soma Simples](https://github.com/joseliojunior/kotlin-developer/blob/master/challenges/firstgroup/01.%20Soma%20Simples.kt)
 - ↳	[1.2 - Números Ímpares](https://github.com/joseliojunior/kotlin-developer/blob/master/challenges/firstgroup/02.%20N%C3%BAmeros%20%C3%8Dmpares.kt)
