@@ -3,7 +3,7 @@
   <img src="https://badges.pufler.dev/updated/joseliojunior/kotlin-developer">
 </p>
 
-# Que bom ter você por aqui! 🤩
+# Que bom ter você por aqui! 🤩 ![](https://joseliojunior.github.io/data/icons/kotlin/sq.svg)
 
 Deixarei agrupado pastas que terão soluções em Kotlin para os vários casos propostos no bootcamp Kotlin Developer da DIO (*Digital Innovation One*).
 
