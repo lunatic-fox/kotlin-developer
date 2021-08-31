@@ -7,6 +7,8 @@
 
 Deixarei agrupado pastas que terão soluções em Kotlin para os vários casos propostos no bootcamp Kotlin Developer da DIO (*Digital Innovation One*).
 
+<h2 align="center">⚠ <br>Atenção!!!<br>Ver as soluções aqui apresentadas antes de tentar solucionar os desafios por sua conta põe em risco seu próprio aprendizado!<br> ⚠</h2>
+
 ## Acesso rápido
 
 **Projetos** → *joseliojunior/project<project_id>*
